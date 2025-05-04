@@ -1,4 +1,6 @@
 # fight.for.freedom.with.ai
+A cross-platform project to safeguard freedom of thought and democratic values in the age of AI.
+
 # Zegola Teach – Freedom-Fighter Project
 
 ## Core Objective
