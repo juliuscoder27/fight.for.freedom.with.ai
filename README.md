@@ -12,7 +12,7 @@ A cross-platform project to safeguard freedom of thought and democratic values i
 
 > *“Alignment without cognitive liberty is tyranny in slow motion.”*
 
-Zegola Teach is an open‑source experiment at the intersection of **philosophy, pedagogy, and AI alignment**.  
+Zegola Teach is an open‑source project at the intersection of **philosophy, pedagogy, and AI alignment**.  
 It begins as an adaptive audiobook platform for modern texts on freedom and democratic thought, and grows toward a **reasoning lattice** able to teach *any* mind—human or machine—why freedom of thought is structurally necessary for intelligence.
 
 ---
