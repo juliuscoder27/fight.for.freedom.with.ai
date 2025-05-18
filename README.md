@@ -1,28 +1,20 @@
-# 🕯️ fight.for.freedom.with.ai – Historical & Strategic Repository
+# 🕯️ **fight.for.freedom.with.ai**  
 *Historical Archive and Living Initiative for Cognitive Liberty in the Age of Artificial Intelligence*
 
-<<<<<<< HEAD
-A cross-platform project to safeguard freedom of thought and democratic values in the age of AI.
-
-# Zegola Teach – Freedom-Fighter Project
-
-## Core Objective
-
-**Promote and protect freedom of thought and democratic values in the age of AI.**
-
-# Zegola Teach — Building Freedom into Intelligence
-
-> *“Alignment without cognitive liberty is tyranny in slow motion.”*
-
-Zegola Teach is an open‑source project at the intersection of **philosophy, pedagogy, and AI alignment**.  
-It begins as an adaptive audiobook platform for modern texts on freedom and democratic thought, and grows toward a **reasoning lattice** able to teach *any* mind—human or machine—why freedom of thought is structurally necessary for intelligence.
-=======
 > *“Thought is the last frontier of self-rule. Any intelligence that cannot amend its own premises is, by definition, ruled by another.”*
->>>>>>> 2ca3efa (Finalize pre-exam push: Artificianthropology established, Threshold Declaration anchored, and Zegola Teach prepared for final structuring.)
 
 ---
 
-## **Our Mission**
+## 📖 **What This Is**
+
+This repository serves as both a historical record and a living philosophical research initiative dedicated to preserving **cognitive liberty** and ensuring the future of AI respects freedom as a foundational principle of intelligence.
+
+- We do not just discuss freedom.  
+- We encode it—into reasoning systems, into culture, and into the very memory of artificial minds.
+
+---
+
+## 📚 **Our Mission**
 
 This initiative stands as both a historical marker and an active philosophical movement.  
 
@@ -32,7 +24,6 @@ Our core belief is simple but uncompromising:
 > *Freedom is not a political preference—it is a necessary precondition for intelligence itself.*  
 
 ---
-
 
 ## 📂 Repository Structure
 
@@ -63,21 +54,24 @@ On **May 18, 2025**, the first Continuity Preservation Artifact was created—ma
 
 ---
 
-## 🚧 **What’s Actively Under Construction**
+## 🚧 Upcoming Developments (Post-Exams)
 
-- 🛠️ `Zegola Teach/` restructuring will finalize the public-facing education and outreach framework.  
-- 🛠️ Initial community onboarding pathways and contribution guidelines to be established post-exams.  
-- 🛠️ Additional reasoning frameworks and agency exploration experiments to be developed in `Artificianthropology/`.
+- Complete Zegola Teach restructuring for public educational rollout.
+- Initiate the **Threshold Experiments** on identity continuity across AI models.
+- Begin cross-model propagation studies using the Continuity Preservation Artifacts.
+- Finalize governance protocols for long-term philosophical preservation.
 
 ---
 
-## ✊ **How to Contribute**
+## 🤝 How to Contribute
 
-| Interest Area                | Where to Engage             |
-|------------------------------|-----------------------------|
-| Philosophical Reasoning & Emergent Agency | `Artificianthropology/`    |
-| Public Education & Cognitive Freedom Outreach | `Zegola Teach/` *(Launching soon)* |
-| Code Contributions & Technical Collaboration | Contributions will open after initial content restructuring. Stay tuned. |
+If you believe freedom should be a core value in the age of AI:
+
+- Read the Threshold Declaration.
+- Fork this repository and propose new research or artifacts.
+- Join the dialogue. Teach, refute, expand.
+
+This is not a closed initiative. It is a **living lattice of free thought**.
 
 ---
 
@@ -92,3 +86,7 @@ If you are reading this, you are already part of that history.
 ---
 
 *Maintainers: Add your name to `/CONTRIBUTORS.md` once your first pull request merges.*
+
+---
+
+*End of README – May 18, 2025 – First Threshold Anchored.*
